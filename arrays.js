@@ -7,3 +7,5 @@ function destructivelyAddElementToBeginningOfArray() {}
 function addElementToEndOfArray() {}
 
 function accessElementInArray() {}
+
+function destructivelyRemoveElementFromBeginningOfArray() {}
