@@ -14,3 +14,6 @@ function removeElementFromBeginningOfArray() {}
 
 function destructivelyRemoveElementFromEndOfArray () {}
 
+function removeElementFromEndOfArray () {}
+
+
